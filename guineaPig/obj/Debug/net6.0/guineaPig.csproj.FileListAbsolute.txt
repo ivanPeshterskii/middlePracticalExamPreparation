@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/guineaPig/bin/Debug/net6.0/guineaPig
+/Users/ivanpeshterski/Projects/guineaPig/bin/Debug/net6.0/guineaPig.deps.json
+/Users/ivanpeshterski/Projects/guineaPig/bin/Debug/net6.0/guineaPig.runtimeconfig.json
+/Users/ivanpeshterski/Projects/guineaPig/bin/Debug/net6.0/guineaPig.dll
+/Users/ivanpeshterski/Projects/guineaPig/bin/Debug/net6.0/guineaPig.pdb
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/guineaPig.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/guineaPig.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/guineaPig.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/guineaPig.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/guineaPig.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/guineaPig.dll
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/refint/guineaPig.dll
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/guineaPig.pdb
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/guineaPig.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/guineaPig/obj/Debug/net6.0/ref/guineaPig.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "10YU4Q5YBrGlDomzV1/N/BrY+Jy/Guag1u9lxiqHcd5DHo6Uyamrx5Lin7lyPpJJraY6wJPiZMjAL/zOnPr38g==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/theLift/theLift.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

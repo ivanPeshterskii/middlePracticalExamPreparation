@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guineaPig", "guineaPig.csproj", "{0159C913-EA2F-4709-9716-0DF0F13F7CD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theLift", "..\theLift\theLift.csproj", "{447F9D70-EC60-4EF4-8D5F-E01089DC6442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movingTarget", "..\movingTarget\movingTarget.csproj", "{F57210C6-700A-49F9-B552-0EBF38208B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0159C913-EA2F-4709-9716-0DF0F13F7CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0159C913-EA2F-4709-9716-0DF0F13F7CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0159C913-EA2F-4709-9716-0DF0F13F7CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0159C913-EA2F-4709-9716-0DF0F13F7CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447F9D70-EC60-4EF4-8D5F-E01089DC6442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447F9D70-EC60-4EF4-8D5F-E01089DC6442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447F9D70-EC60-4EF4-8D5F-E01089DC6442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447F9D70-EC60-4EF4-8D5F-E01089DC6442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57210C6-700A-49F9-B552-0EBF38208B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57210C6-700A-49F9-B552-0EBF38208B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57210C6-700A-49F9-B552-0EBF38208B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57210C6-700A-49F9-B552-0EBF38208B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37E36D0-160D-4126-925B-09B85CFBD299}
+	EndGlobalSection
+EndGlobal

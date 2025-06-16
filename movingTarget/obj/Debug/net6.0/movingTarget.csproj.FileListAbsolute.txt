@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/movingTarget/bin/Debug/net6.0/movingTarget
+/Users/ivanpeshterski/Projects/movingTarget/bin/Debug/net6.0/movingTarget.deps.json
+/Users/ivanpeshterski/Projects/movingTarget/bin/Debug/net6.0/movingTarget.runtimeconfig.json
+/Users/ivanpeshterski/Projects/movingTarget/bin/Debug/net6.0/movingTarget.dll
+/Users/ivanpeshterski/Projects/movingTarget/bin/Debug/net6.0/movingTarget.pdb
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/movingTarget.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/movingTarget.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/movingTarget.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/movingTarget.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/movingTarget.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/movingTarget.dll
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/refint/movingTarget.dll
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/movingTarget.pdb
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/movingTarget.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/movingTarget/obj/Debug/net6.0/ref/movingTarget.dll

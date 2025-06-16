@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/theLift/bin/Debug/net6.0/theLift
+/Users/ivanpeshterski/Projects/theLift/bin/Debug/net6.0/theLift.deps.json
+/Users/ivanpeshterski/Projects/theLift/bin/Debug/net6.0/theLift.runtimeconfig.json
+/Users/ivanpeshterski/Projects/theLift/bin/Debug/net6.0/theLift.dll
+/Users/ivanpeshterski/Projects/theLift/bin/Debug/net6.0/theLift.pdb
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/theLift.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/theLift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/theLift.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/theLift.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/theLift.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/theLift.dll
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/refint/theLift.dll
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/theLift.pdb
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/theLift.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/theLift/obj/Debug/net6.0/ref/theLift.dll
